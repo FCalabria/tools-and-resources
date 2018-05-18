@@ -16,7 +16,9 @@
 ## Test pending
 
 - [TODO parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser)
-- [Git history](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
 - [CSS peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Regex previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
+- [File header comment](https://marketplace.visualstudio.com/items?itemName=doi.fileheadercomment)
+- [Dayjs](https://github.com/xx45/dayjs)
+- [Pact](https://github.com/pact-foundation/pact-js)
