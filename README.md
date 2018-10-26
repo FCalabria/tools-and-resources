@@ -14,9 +14,10 @@
 - [VSCode icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) Nice set of icons for vscode
 - [Fira code](https://github.com/tonsky/FiraCode) Best programming font ever
 
-## Testing
+## Testing tools and readings
 
 - [Pact](https://github.com/pact-foundation/pact-js) Keep your front-back contract green without writing more tests.
+- [The art of unit testing, Roy Osherove](https://github.com/aisuhua/books-1/blob/master/tdd%20%2B%20bdd/the-art-of-unit-testing.pdf) Book covering from the basics to how to implement testing in the organization.
 
 
 ## Test pending
