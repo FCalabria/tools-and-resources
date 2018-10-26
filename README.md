@@ -1,6 +1,8 @@
 # Tools and resources
 
-## VSCode extensions
+## Workspace
+
+### VSCode extensions
 
 - [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Easily detect brackets pairs.
 - [Git blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) See git blame information about a line on the bottom bar.
@@ -9,14 +11,19 @@
 - [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) Minimizer, previewer, autocomplete... all the tools you need for svg images.
 - [Licenser](https://marketplace.visualstudio.com/items?itemName=ymotongpoo.licenser) Automatically add license in files. Compatible with a lot of filetypes.
 
-## Themes, icons...
+### Themes, icons...
 
 - [VSCode icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) Nice set of icons for vscode
 - [Fira code](https://github.com/tonsky/FiraCode) Best programming font ever
 
-## Testing tools and readings
+## Testing
+
+### Tools
 
 - [Pact](https://github.com/pact-foundation/pact-js) Keep your front-back contract green without writing more tests.
+
+### Readings
+
 - [The art of unit testing, Roy Osherove](https://github.com/aisuhua/books-1/blob/master/tdd%20%2B%20bdd/the-art-of-unit-testing.pdf) Book covering from the basics to how to implement testing in the organization.
 
 
