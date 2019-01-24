@@ -32,12 +32,10 @@
 
 ## Test pending
 
-- [TODO parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser)
 - [Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
 - [CSS peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Regex previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 - [Dayjs](https://github.com/xx45/dayjs)
-- [Runaway](https://runwayapp.io)
 - [Vuese](https://github.com/HcySunYang/vuese)
 - [eCSStractor](https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port)
 - [MkDocs](https://www.mkdocs.org/)
