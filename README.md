@@ -21,7 +21,7 @@
 ### Tools
 
 - [Pact](https://github.com/pact-foundation/pact-js) Keep your front-back contract green without writing more tests.
-- [Stryker mutator](https://stryker-mutator.io) Mutation testing
+- ~[Stryker mutator](https://stryker-mutator.io) Mutation testing~ Very unstable and non-trustable reports.
 
 ### Readings
 
